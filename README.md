@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on coin-prediction project with CNN
+- 🌱 I’m currently learning Neural Networks
+- 👯 I’m looking to collaborate on Projects related to Image Processing and Neural Networks
+- 💬 Ask me about AI/ML or DSA
+- 📫 How to reach me: santoshsimhadri2211@gmail.com
 
 <!--
 **SimhadriSantosh/SimhadriSantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
