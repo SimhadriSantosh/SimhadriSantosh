@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on coin-prediction project with CNN
 - 🌱 I’m currently learning Neural Networks
 - 👯 I’m looking to collaborate on Projects related to Image Processing and Neural Networks
-- 💬 Ask me about AI/ML or DSA
+- 💬 Ask me about AI/ML, Data Science or DSA
 - 📫 How to reach me: santoshsimhadri2211@gmail.com
 
 <!--
