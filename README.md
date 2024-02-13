@@ -3,8 +3,10 @@
 ###
 
 <h3 align="center">An Information Technology Undergrad Enthusiast about Machine Learning and Data Science</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
-## 🌐 Connect with me::
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SimhadriSantosh&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
+
+## 🌐 Connect With Me:
+
 <div align="left">
   <a href="https://www.linkedin.com/in/simhadri-santosh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
