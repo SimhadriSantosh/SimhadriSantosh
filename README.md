@@ -2,8 +2,8 @@
 
 ###
 
-<h3 align="center">An INformation Technology Undergrad Enthusiast about Machine Learning and Data Science</h3>
-
+<h3 align="center">An Information Technology Undergrad Enthusiast about Machine Learning and Data Science</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
 ## 🌐 Connect with me::
 <div align="left">
   <a href="https://www.linkedin.com/in/simhadri-santosh/" target="_blank">
