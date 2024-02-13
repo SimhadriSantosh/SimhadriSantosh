@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">An Information Technology Undergrad Enthusiast about Machine Learning and Data Science</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SimhadriSantosh&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SimhadriSantosh&label=Profile%20views&color=0e75b6&style=flat" alt="SimhadriSantosh" /> </p>
 
 ## 🌐 Connect With Me:
 
@@ -11,7 +11,10 @@
   <a href="https://www.linkedin.com/in/simhadri-santosh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-<!--   <a href="https://kaggle.com/abduulrahmankhalid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abduulrahmankhalid" height="35" width="47" /></a> -->
+<!-- <a href="mailto:santoshsimhadri2211@gmail.com">
+    <img src="https://raw.githubusercontent.com/SimhadriSantosh/SimhadriSantosh/main/gmail_732200.png" alt="SimhadriSantosh">
+</a> -->
+  
 </div>
 
 # 💻 Tech Stack:
