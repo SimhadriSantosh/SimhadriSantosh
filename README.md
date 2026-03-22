@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">An Information Technology Graduate and a working professional @ Deloitte USI </h3>
+<h3 align="center">I'm an Analyst at Deloitte USI and an Information Technology Graduate from VSSUT, Burla</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SimhadriSantosh&label=Profile%20views&color=0e75b6&style=flat" alt="SimhadriSantosh" /> </p> -->
 
 
